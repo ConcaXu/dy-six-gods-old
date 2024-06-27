@@ -1,0 +1,16 @@
+{
+    "url": "https://aweme.snssdk.com/aweme/v1/commit/item/digg/?aweme_id=7145359929656839431&type=0&channel_id=0&city=350200&activity=0&item_type=0&is_commerce=0&is_guest_mode=0&manifest_version_code=170101&_rticket=1663744385451&app_type=normal&iid=3936674376079415&is_android_pad=0&channel=douyin_huitou_and185&device_type=Redmi+K30i+5G&language=zh&cpu_support64=true&host_abi=armeabi-v7a&resolution=1080*2175&openudid=1f6442cc3074c234&update_version_code=17109900&cdid=207b1dad-bfa6-4ea5-9b41-c904983fb46a&appTheme=dark&minor_status=0&os_api=29&dpi=440&oaid=6ca6c155d6e97dec&ac=wifi&device_id=2744006737673966&os=android&mcc_mnc=46001&os_version=10&version_code=170100&app_name=aweme&version_name=17.1.0&device_brand=Redmi&ssmix=a&device_platform=android&aid=1128&ts=1663744385",
+    "header": {
+        "Cookie": "install_id=2758020809372279; ttreq=1$ed2cc1c7c7100da42e7e6bdc4a6f70dbdae94c06; passport_csrf_token=7e293a682261ded751cd73ef338e8f68; passport_csrf_token_default=7e293a682261ded751cd73ef338e8f68; d_ticket=debbf6ed59ca41dc7e1ed6180c59bb180324f; multi_sids=259073062740940%3Aab47021798649b2e9eadf141d361db24; n_mh=6JIIEci0PqGtfxAKqPMGct89YMY-dWF4cEYkkI-sPdc; passport_assist_user=CkDMvNUebb5LCBieLW1B-L_dC7rgMwxZrVSYb_41ECce3borCZ3tyxNU-GLifE_yCnUPmSlXvOiIYZwEZUFuV3goGkgKPOueCpNMOWL1fIZGVXPIkgyuVb9325SAtcDjmqp8X1aNQLd8MaMBbGOiC38kVRmRK0RIwk5goa6jpnNMpRCA_qENGImv1lQiAQNKTbM8; sid_guard=ab47021798649b2e9eadf141d361db24%7C1669197589%7C5184000%7CSun%2C+22-Jan-2023+09%3A59%3A49+GMT; uid_tt=0b4154060ebb50c6525a9608f503d19e; uid_tt_ss=0b4154060ebb50c6525a9608f503d19e; sid_tt=ab47021798649b2e9eadf141d361db24; sessionid=ab47021798649b2e9eadf141d361db24; sessionid_ss=ab47021798649b2e9eadf141d361db24; odin_tt=e0d190dff86f96dc456d29f717d7cb3c6049575a6d23994a83a3bd986923a644f7705be7dbeabfcd28558bf1daa4744de8c088eb6f58569484041b8539cc12a7; install_id=251166217479287; odin_tt=a20f3788f2415bb22d20f271d6e685c44362927e555d84a46dcac3c811c93cd4bbcfb8da956b36ec54bd6faf68cda77309c54f6db10aa32a9bdbdb44e7fbdc32; ttreq=1$aea0ef0b29065822d16e0d47e397468951810105",
+        "activity_now_client": "1669194944552",
+        "x-tt-dt": "AAAS4FULKHJU3JJUZ6NMDAHBBW7G7BWCVI7255AUZYF7KMA6EMGF4JA454CSVB3ZQHQEKWI32RUNT62MSMRQSV4CBKOVYNJGBHIIDOQV4ISJ6WTPRZ5A35PUDDSGSJJGLYXFM2CEQD3ZAUTGA3AKD2Y",
+        "x-tt-multi-sids": "none",
+        "sdk-version": "2",
+        "x-tt-token": "00ab47021798649b2e9eadf141d361db24052c44edd23d5ba79dcd443f692709bef1b69fc55d0dfd760359532b5da340c85ba3d0f55c3ae7ab92041423270f2da8697208e104b3b97ae3be702b0aaa48f2ab96f3d8a88b1fe435a3140be90c1e1a43e-1.0.1",
+        "multi_login": "1",
+        "passport-sdk-version": "20374",
+        "x-vc-bdturing-sdk-version": "3.1.0.cn",
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "user-agent": "com.ss.android.ugc.aweme/230301 (Linux; U; Android 9; zh_CN_#Hans; Pixel 3; Build/PQ3A.190605.003;tt-ok/3.12.13.1)"
+    }
+}
